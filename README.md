@@ -57,8 +57,9 @@ Height: 4
 </details>
 
 <details open>
-<summary>Week 1</summary>
+<summary>Week 2</summary>
 <br>
+        
 ## Problem to Solve Credit
 ***
 A credit (or debit) card, of course, is a plastic card with which you can pay for goods and services. Printed on that card is a number that’s also stored in a database somewhere, so that when your card is used to buy something, the creditor knows whom to bill. There are a lot of people with credit cards in this world, so those numbers are pretty long: American Express uses 15-digit numbers, MasterCard uses 16-digit numbers, and Visa uses 13- and 16-digit numbers. And those are decimal numbers (0 through 9), not binary, which means, for instance, that American Express could print as many as 10^15 = 1,000,000,000,000,000 unique cards! (That’s, um, a quadrillion.)
@@ -68,7 +69,7 @@ Actually, that’s a bit of an exaggeration, because credit card numbers actuall
 In a file called ```credit.c``` in a folder called ```credit```, implement a program in C that checks the validity of a given credit card number.
 
 ## Luhn's Algorithm
-**
+***
 So what’s the secret formula? Well, most cards use an algorithm invented by Hans Peter Luhn of IBM. According to Luhn’s algorithm, you can determine if a credit card number is (syntactically) valid as follows:
 
 1. Multiply every other digit by 2, starting with the number’s second-to-last digit, and then add those products’ digits together.

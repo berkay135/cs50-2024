@@ -14,7 +14,24 @@ In a file called ```mario.c``` in a folder called ```mario-more```, implement a 
      ####  ####   
 And let’s allow the user to decide just how tall the pyramids should be by first prompting them for a positive int between, say, 1 and 8, inclusive.
 
->Examples
+<details open>
+<summary>Examples</summary>
+<br>
+Here’s how the program might work if the user inputs 8 when prompted:
+```
+$ ./mario
+Height: 8
+       #  #
+      ##  ##
+     ###  ###
+    ####  ####
+   #####  #####
+  ######  ######
+ #######  #######
+########  ########      
+```
+</details>
+
 Notice that width of the “gap” between adjacent pyramids is equal to the width of two hashes, irrespective of the pyramids’ heights.
 
 [pyramid]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg

@@ -1,6 +1,9 @@
+<details open>
+<summary>Week 1</summary>
+<br>
 # Week 1
 
-## Problem to Solve
+## Problem to Solve Mario
 ***
 ### How to Solve
 ***
@@ -51,5 +54,8 @@ Height: 4
 ```
 
 </details>
+</details>
+
+## Problem to Solve Credit
 
 [pyramid]: img/pyramids.png

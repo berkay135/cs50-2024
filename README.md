@@ -18,6 +18,7 @@ And let’s allow the user to decide just how tall the pyramids should be by fir
 <summary>Examples</summary>
 <br>
 Here’s how the program might work if the user inputs 8 when prompted:
+        
 ```
 $ ./mario
 Height: 8

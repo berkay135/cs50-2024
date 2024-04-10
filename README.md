@@ -3,8 +3,8 @@
 ### How to Solve
 ***
 Toward the beginning of World 1-1 in Nintendo’s Super Mario Brothers, Mario must hop over adjacent pyramids of blocks, per the below.
+
 ![Pyramid][pyramid]
-screenshot of Mario jumping over adjacent pyramids
 
 In a file called ```mario.c``` in a folder called ```mario-more```, implement a program in C that recreates that pyramid, using hashes (#) for bricks, as in the below:
 

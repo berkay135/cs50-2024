@@ -31,8 +31,20 @@ Height: 8
  #######  #######
 ########  ########      
 ```
-</details>
 
-Notice that width of the “gap” between adjacent pyramids is equal to the width of two hashes, irrespective of the pyramids’ heights.
+```
+$ ./mario
+Height: -1
+Height: 0
+Height: 42
+Height: 50
+Height: 4
+   #  #
+  ##  ##
+ ###  ###
+####  ####
+```
+
+</details>
 
 [pyramid]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg

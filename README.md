@@ -92,13 +92,13 @@ That’s kind of confusing, so let’s try an example with David’s Visa: 40036
 
     Now let’s add those products’ digits (i.e., not the products themselves) together:
 
-2 + 0 + 0 + 0 + 0 + 1 + 2 + 0 + 8 = 13
+    2 + 0 + 0 + 0 + 0 + 1 + 2 + 0 + 8 = 13
 
     2. Now let’s add that sum (13) to the sum of the digits that weren’t multiplied by 2 (starting from the end):
 
     13 + 4 + 0 + 0 + 0 + 0 + 0 + 3 + 0 = 20
 
-3. Yup, the last digit in that sum (20) is a 0, so David’s card is legit!
+    3. Yup, the last digit in that sum (20) is a 0, so David’s card is legit!
 
     So, validating credit card numbers isn’t hard, but it does get a bit tedious by hand. Let’s write a program.
 

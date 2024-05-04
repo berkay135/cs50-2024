@@ -135,5 +135,7 @@ That’s kind of confusing, so let’s try an example with David’s Visa: 40036
 </details>
 
 [Week2](https://cs50.harvard.edu/x/2024/psets/2/)
+[Week3](https://cs50.harvard.edu/x/2024/psets/3/)
+[Week4](https://cs50.harvard.edu/x/2024/psets/4/)
 
 [pyramid]: img/pyramids.png
